@@ -15,7 +15,6 @@ Completando los campos correspondientes, nos dirá la probabilidad de que el usu
 ![image](https://user-images.githubusercontent.com/77274340/154402930-430c7d5e-c090-41db-9f2b-acac59785aa8.png)
 ![image](https://user-images.githubusercontent.com/77274340/154402963-184ab97d-b7e8-4a39-92c6-0bcb98f8b9ab.png)
 ![image](https://user-images.githubusercontent.com/77274340/154402977-afe44b8b-8ff8-49bf-adea-aded468fcafc.png)
-![image](https://user-images.githubusercontent.com/77274340/154402985-19a705a0-b29b-4f80-9e91-4558a3155b35.png)
 ![image](https://user-images.githubusercontent.com/77274340/154403009-ca001df2-ad93-48a3-9b52-82f1e332854a.png)
 ![image](https://user-images.githubusercontent.com/77274340/154403051-144a7187-0c73-4e8b-8044-655c901ddcb9.png)
 ![image](https://user-images.githubusercontent.com/77274340/154403075-5e421c07-581b-46c9-99ee-0d5c000d9667.png)
