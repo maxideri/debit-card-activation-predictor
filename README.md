@@ -9,4 +9,4 @@ Para esto se estableció como base el rendimiento ROC_AUC de un modelo Naive Bay
 Para interactuar con el predictor obtenido de una manera mas gráfica se puede usar el archivo streamlit.py. Para ejecutarlo hay que correr el siguiente comando:
 streamlit run <path>/stream.py
 
-Completando los campos correspondientes, nos dirá la probabilidad de que el usuario active o no la tarjeta de débito, la influencia de cada una de las features, y si el resultado es positivo, en cuanto desde la solicitudad de la tarjeta se haría la activación
+Completando los campos correspondientes, nos dirá la probabilidad de que el usuario active o no la tarjeta de débito, la influencia de cada una de las features, y si el resultado es positivo, en cuanto dias desde la solicitudad de la tarjeta se haría la activación
