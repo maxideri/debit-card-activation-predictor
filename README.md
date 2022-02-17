@@ -26,6 +26,8 @@ Completando los campos correspondientes, nos dirá la probabilidad de que el usu
 ![image](https://user-images.githubusercontent.com/77274340/154403261-cc8cca0e-9c2c-4934-b606-52748ae95d85.png)
 ![image](https://user-images.githubusercontent.com/77274340/154403286-c168799f-0c7e-4836-92b1-823c8660cf77.png)
 ![image](https://user-images.githubusercontent.com/77274340/154403324-996ae8f4-1942-4106-b23f-8031a9822b0f.png)
+![image](https://user-images.githubusercontent.com/77274340/154404200-06750fcf-be24-4240-bbae-51a4bf0f9833.png)
+
 
 
 
